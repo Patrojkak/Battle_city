@@ -1,0 +1,1535 @@
+fileFormatVersion: 2
+guid: ca8a3fe7bf2c32a49b9c2e19bc2d9447
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68f79bab43c82646ac4c69c1b792fac
+      internalID: -1869220185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf4b07b190f24342a3b568119b1fcd1
+      internalID: 920634889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5af807006ad9b845885367d406bd62c
+      internalID: 1828892292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912acef1ce4ca6a46b0b41c223894021
+      internalID: 783934837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8da11e32829c144ab956ed79304d81f
+      internalID: 1878323125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491c3a900ffd58947b9eecb60e40dcf1
+      internalID: 984077655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd02a522a6e02a746bc4d10d56931497
+      internalID: -1837819694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc94db3b68e597f4a96451199e3cc02d
+      internalID: 1282069642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e2ed5b9f494534fa61beb9350d9dbd
+      internalID: 919432437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad20476663914c246b36c441e9810c61
+      internalID: 798260836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb51ca8adc84cdd44abcf36ac48e88e7
+      internalID: -1967388263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ed47e8d788b9d448fb711acda1d8b9
+      internalID: 1014353966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457248dc7fc027445b94b0c6d1db5040
+      internalID: -1161154905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c00b1588dc083644b832fb384c14ad1
+      internalID: -140800260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fc1953da5929345aa2df1a154d0f00
+      internalID: -1450347179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c1af9ccd14c924da27eef17e28325c
+      internalID: -1693496223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261212d34391b3249aa038fd328564af
+      internalID: -1506804752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b5bbc616247504092a92a7b05e83be
+      internalID: -1638970671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96edcf61935f41445bd8fdc2d0158e84
+      internalID: 1725018424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a1d5753329447488edc43773435e12
+      internalID: -1529767878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cbaded142ea734c82c367b8e665dc5
+      internalID: -821322183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38381a8dd740eb46b3bdb3de3d863a9
+      internalID: 1481190987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e005f92bcea276b46a1c5497232b4330
+      internalID: 2036146582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd594c3f29cfd54bb5b8ef135befbcc
+      internalID: -1081787514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2dabf1d7d562f4f9266b4bfe1b61b1
+      internalID: -98587783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4902e1b8a870a7c498fa80a19014e52c
+      internalID: -76472134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec04fa8d51089b4ba9aa91543a31afd
+      internalID: -297626865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1001ebdc06c3a478cdff58440b4bcd
+      internalID: -6549289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04d809820b3d7d42b4826d966df7789
+      internalID: -1299104967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8a0bc9317a6a24eaa25dddce8f6f9f
+      internalID: 382550681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd1a53a94931b24c8ed498b08b1d501
+      internalID: -164287883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5c89c9b266bb04b81d42204ed0772f
+      internalID: -616417421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecddd873fa9360e4eaacfe6d0df803d8
+      internalID: 1370006143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbba3f192b078e4e9bbddd5810b92b6
+      internalID: 622445834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e910521163e91884f9382cc7ea75ee4d
+      internalID: 1289810957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e79a74f2c53c7a49b2962753f6bfdc5
+      internalID: -1153532460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed08b88e65dc894981829e5d796574d
+      internalID: 210448130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a585f304fb8a1a545868b200314c7b7b
+      internalID: 1564179407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4542c8880c3e5a449972279004d2b5c
+      internalID: 1140609994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b018ba01a36d94547bb0900813bd0f5b
+      internalID: -135145473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee34c6a2c1d4bd4dbfd9ca77b576f8e
+      internalID: -766725701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91c4dd30874804489edcba3c740398b
+      internalID: 170303862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dceef58bffdcf45a740853bb0f3669
+      internalID: 259811443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d55789115d31845ad7fbb01450cf33
+      internalID: -1981501585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393fda0a86af03b458968a40476dcded
+      internalID: 1748869994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a4f247f1faf814985e85d1bcc76d06
+      internalID: 32461570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de92d999b873de74a80526633b2e4e32
+      internalID: 1192182755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b972412fe4fcbe4fbb86969965b2a80
+      internalID: -504023079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81f53ed4eca5b646ab99d9c5911f35e
+      internalID: 1042419360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f302abcda86d5345bc84f060949a5eb
+      internalID: 2035795541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21195c68b9d47294597931c9cdfac983
+      internalID: 104374356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1299bdded7f787a4aa8db78f7ed2c795
+      internalID: 27184789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bc134ce9cd96244ab98283f84463da
+      internalID: -2119078494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f070880a9c517914aad41e72ed5d863b
+      internalID: -527669930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a00780d6248c164482052343487f649
+      internalID: -1242088855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc484ac2feff8342baaf4935f01aa03
+      internalID: 1495565169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e197410c55061404faa0deef01c7994c
+      internalID: -432024664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc789ca40cd5695499afd77eb29d1e20
+      internalID: -2052519367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ff9cc571775a54896a635af04636dd
+      internalID: -333103880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa76ae200a6f8c0489d006766a4a1c1d
+      internalID: -1957203243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8627e4ac9247c0f4ebe24ce977b62211
+      internalID: -653014720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6a4cd2ff0e4c641b45e353dfd0b5cb
+      internalID: -1904478279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f3bc387a16f934493e5e26f4fc986c
+      internalID: 268249251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle city sprites yellow tank_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16.125
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b3e1ca6d44c8640a46762c8254e13e
+      internalID: 1086379595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      battle city sprites yellow tank_0: -1869220185
+      battle city sprites yellow tank_1: 920634889
+      battle city sprites yellow tank_10: -1967388263
+      battle city sprites yellow tank_11: 1014353966
+      battle city sprites yellow tank_12: -1161154905
+      battle city sprites yellow tank_13: -140800260
+      battle city sprites yellow tank_14: -1450347179
+      battle city sprites yellow tank_15: -1693496223
+      battle city sprites yellow tank_16: -1506804752
+      battle city sprites yellow tank_17: -1638970671
+      battle city sprites yellow tank_18: 1725018424
+      battle city sprites yellow tank_19: -1529767878
+      battle city sprites yellow tank_2: 1828892292
+      battle city sprites yellow tank_20: -821322183
+      battle city sprites yellow tank_21: 1481190987
+      battle city sprites yellow tank_22: 2036146582
+      battle city sprites yellow tank_23: -1081787514
+      battle city sprites yellow tank_24: -98587783
+      battle city sprites yellow tank_25: -76472134
+      battle city sprites yellow tank_26: -297626865
+      battle city sprites yellow tank_27: -6549289
+      battle city sprites yellow tank_28: -1299104967
+      battle city sprites yellow tank_29: 382550681
+      battle city sprites yellow tank_3: 783934837
+      battle city sprites yellow tank_30: -164287883
+      battle city sprites yellow tank_31: -616417421
+      battle city sprites yellow tank_32: 1370006143
+      battle city sprites yellow tank_33: 622445834
+      battle city sprites yellow tank_34: 1289810957
+      battle city sprites yellow tank_35: -1153532460
+      battle city sprites yellow tank_36: 210448130
+      battle city sprites yellow tank_37: 1564179407
+      battle city sprites yellow tank_38: 1140609994
+      battle city sprites yellow tank_39: -135145473
+      battle city sprites yellow tank_4: 1878323125
+      battle city sprites yellow tank_40: -766725701
+      battle city sprites yellow tank_41: 170303862
+      battle city sprites yellow tank_42: 259811443
+      battle city sprites yellow tank_43: -1981501585
+      battle city sprites yellow tank_44: 1748869994
+      battle city sprites yellow tank_45: 32461570
+      battle city sprites yellow tank_46: 1192182755
+      battle city sprites yellow tank_47: -504023079
+      battle city sprites yellow tank_48: 1042419360
+      battle city sprites yellow tank_49: 2035795541
+      battle city sprites yellow tank_5: 984077655
+      battle city sprites yellow tank_50: 104374356
+      battle city sprites yellow tank_51: 27184789
+      battle city sprites yellow tank_52: -2119078494
+      battle city sprites yellow tank_53: -527669930
+      battle city sprites yellow tank_54: -1242088855
+      battle city sprites yellow tank_55: 1495565169
+      battle city sprites yellow tank_56: -432024664
+      battle city sprites yellow tank_57: -2052519367
+      battle city sprites yellow tank_58: -333103880
+      battle city sprites yellow tank_59: -1957203243
+      battle city sprites yellow tank_6: -1837819694
+      battle city sprites yellow tank_60: -653014720
+      battle city sprites yellow tank_61: -1904478279
+      battle city sprites yellow tank_62: 268249251
+      battle city sprites yellow tank_63: 1086379595
+      battle city sprites yellow tank_7: 1282069642
+      battle city sprites yellow tank_8: 919432437
+      battle city sprites yellow tank_9: 798260836
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
