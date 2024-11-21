@@ -20,4 +20,7 @@ public class l : MonoBehaviour
             bullet.GetComponent<Rigidbody2D>().velocity = bulletspawnpoint.up * bulletspeed;
         }
     }
-}
+    
+
+
+}    
