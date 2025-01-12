@@ -1,1 +1,1 @@
-PATROL A ROTACIA AI NASTAVENÝ
+https://github.com/NightsWatchGames/battle-city/tree/master/assets/sounds
